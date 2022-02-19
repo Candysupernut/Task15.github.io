@@ -19,11 +19,45 @@
 	   
 	   
 	    <div class="table-1">
-		
+		<div  class="row">
+		<div  class="cell GR1">Мій(моя) улюблнена</div>
+		<div  class="cell GR2"></div>
+		<div  class="cell GR3">Як сильно</div>
+		<div  class="cell GR4"></div>
 		</div>
+		<div  class="row">
+		<div  class="cell GR1"></div>
+		<div  class="cell GR2">Не люблю</div>
+		<div  class="cell GR3">Так собі</div>
+		<div  class="cell GR4">Дуже люблю</div>
+		</div>
+		<div  class="row">
+		<div  class="cell GR1">Страва</div>
+		<div  class="cell GR2 ar1"></div>
+		<div  class="cell GR3 ar2"></div>
+		<div  class="cell GR4 ar3"></div>
+		</div>
+		<div  class="row">
+		<div  class="cell GR1">Колір</div>
+		<div  class="cell GR2"></div>
+		<div  class="cell GR3"></div>
+		<div  class="cell GR4"></div>
+		</div>
+	 
+		<div  class="row">
+		<div  class="cell GR1">Навчальний предмет</div>
+		<div  class="cell GR2"></div>
+		<div  class="cell GR3"></div>
+		<div  class="cell GR4"></div>
+		</div></div>
+	 
 		
 		 <div class="table-2">
-		
+		<div  class="row">
+		<div  class="cell GR1"></div>
+		<div  class="cell GR2"></div>
+		<div  class="cell GR3"></div>
+		<div  class="cell GR4"></div>
 		</div>
 	 
 	 

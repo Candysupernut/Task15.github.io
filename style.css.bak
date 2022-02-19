@@ -71,14 +71,6 @@ body{
 	padding-bottom:20px;
 	color:grey;
 	border: 2px solid пкуун;
-}.ar1{
-	background-color:yellow;
-}
-.ar2{
-	background-color:orange;
-}
-.ar3{
-	background-color:red;
 }
 
 
