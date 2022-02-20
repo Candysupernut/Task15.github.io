@@ -6,14 +6,13 @@ body{
 	min-height: 500px;
 	box-shadow: 2px 2px 5px grey;
 	font-family: Arial;
-	background-color:#D3D3D3;
+	
 }
 
 /*в цьому правилі нічого не потрібно змінювати*/
 .slogan{
 	font-size: 20px;
 	text-align: center;
-	padding-bottom:15px;
 }
 
 /*в цьому правилі нічого не потрібно змінювати*/
@@ -53,45 +52,17 @@ body{
 	min-height: 425px;
 	background: #deebf4;
 	
-}.table{
-	display:table;
-	border-collapse:collapse;
-	border:1px solid grey;
 }
-.row{
-	display:table-row;
-	margin-left:20px;
-	margin-right:20px;
-}
-.cell{
-	display:table-cell;
-	height:20px;
-	width:300px;
-	text-align:center;
-	padding-top:20px;
-	padding-bottom:20px;
-	color:black;
-	border: 1px solid grey;
-}.ar1{
-	background-color:yellow;
-}
-.ar2{
-	background-color:orange;
-}
-.ar3{
-	background-color:#FF6347;
-}
-.GR13{
-	border-left: none;
-}
-table2{
-border: 4px solid grey;
+
+table{
+text-align:center;
+border: 2px solid grey;
 border-collapse: collapse;
 }
 td,th{
-border: 2px solid red;
+border: 2px solid grey;
 height: 25px;
-width: 70px;
+width: 200px;
 padding: 5px;
 text-align: center;
 }
@@ -100,7 +71,28 @@ caption-side: bottom;
 text-align: left;
 padding-left: 10px;
 }
-rowspan="Gr11";
+.r1{
+	background-color:yellow;
+}
+.r2{
+	background-color:orange;
+}
+.r3{
+	background-color:#FF6347;
+}
+td,th{
+
+height: 25px;
+width: 200px;
+padding: 5px;
+text-align: center;
+}
+.ar1{
+	border-bottom:3px solid orange;
+	border-top:3px solid #deebf4;
+	border-left:3px solid #deebf4;
+	border-right:3px solid #deebf4;
+}
 
 
 

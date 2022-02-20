@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<title>Exam 2</title>
+	<link href="style2.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="header">
+	  <div class="logo">
+	    <img src="Oreo_Cookie_logo.png" alt="oreo" class="oreo-logo">
+       	<img src="oreo-png.png" alt="oreo" class="oreo-cookie">
+		 <div class="slogan"> The best cookies ever!</div> 
+	  </div> 
+	  
+	</div> 
+	
+	 <div class="main">
+	   <br><br>
+	   
+	    <div class="table-1">
+		<table>
+		<caption></caption>
+<tr>
+<th rowspan="2">Мій(моя) улюблнена</th>
+
+<th colspan="3">Як сильно</th>
+
+</tr>
+<tr>
+
+<td>Не люблю</td>
+<td>Так собі</td>
+<td>Дуже люблю</td>
+
+</tr>
+<tr>
+<td>Страва</td>
+<td class="r1">Чіпси</td>
+<td class="r2">Каша гречана</td>
+<td class="r3">Вареники</td>
+</tr>
+<tr>
+<td>Колір</td>
+<td class="r1"></td>
+<td class="r2"></td>
+<td class="r3"></td>
+</tr>
+<tr>
+<td>Навчальний предмет</td>
+<td class="r1"></td>
+<td class="r2"></td>
+<td class="r3"></td>
+</tr>
+</table>
+		</div>
+		<br><br>
+		 <div class="table-2">
+		<table>
+<caption></caption>
+<tr>
+<th>Infinitive</th>
+<th>Past</th>
+<th>Past Perfect</th>
+</tr>
+<tr>
+<td >be</td>
+<td class="ar1">was/were</td>
+<td class="ar1">been</td>
+</tr>
+<tr>
+<td class="ar1">do</td>
+<td class="ar1">did</td>
+<td class="ar1">done</td>
+</tr>
+<tr>
+<td>can</td>
+<td>could</td>
+<td>could</td>
+</tr>
+</table>
+		</div>
+	 
+	 
+	</div>
+	 <div class="footer">
+	    Designed by Oreo Oreo
+	</div>
+  </body>
+</html>

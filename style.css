@@ -6,13 +6,14 @@ body{
 	min-height: 500px;
 	box-shadow: 2px 2px 5px grey;
 	font-family: Arial;
-	
+	background-color:#D3D3D3;
 }
 
 /*в цьому правилі нічого не потрібно змінювати*/
 .slogan{
 	font-size: 20px;
 	text-align: center;
+	padding-bottom:15px;
 }
 
 /*в цьому правилі нічого не потрібно змінювати*/
@@ -29,7 +30,7 @@ body{
 яка змінює режим розрахунку загальних розмірів*/
 .header{
 	width: 100%;
-	height: 50px;
+	height: 60px;
 	background: #a6dbfb;
 	padding: 5px;
 	color:#0e2b3c;
@@ -44,7 +45,7 @@ body{
 
 .oreo-cookie{
 	height: 40px;
-	
+	float:right;
 }
 
 
@@ -55,7 +56,7 @@ body{
 }.table{
 	display:table;
 	border-collapse:collapse;
-	
+	border:1px solid grey;
 }
 .row{
 	display:table-row;
@@ -69,8 +70,8 @@ body{
 	text-align:center;
 	padding-top:20px;
 	padding-bottom:20px;
-	color:grey;
-	border: 2px solid пкуун;
+	color:black;
+	border: 1px solid grey;
 }.ar1{
 	background-color:yellow;
 }
@@ -78,10 +79,28 @@ body{
 	background-color:orange;
 }
 .ar3{
-	background-color:red;
+	background-color:#FF6347;
 }
-
-
+.GR13{
+	border-left: none;
+}
+table2{
+border: 4px solid grey;
+border-collapse: collapse;
+}
+td,th{
+border: 2px solid red;
+height: 25px;
+width: 70px;
+padding: 5px;
+text-align: center;
+}
+caption{
+caption-side: bottom;
+text-align: left;
+padding-left: 10px;
+}
+rowspan=.GR1:.Gr11;
 
 
 
