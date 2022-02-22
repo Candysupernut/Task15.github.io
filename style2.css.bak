@@ -80,7 +80,7 @@ padding-left: 10px;
 .r3{
 	background-color:#FF6347;
 }
-td,th{
+.fr3{
 height:25px;
 width: 200px;
 padding: 5px;
