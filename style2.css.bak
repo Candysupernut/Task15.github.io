@@ -93,7 +93,7 @@ text-align: center;
 	border-right:3px solid #deebf4;
 }
 .pic1{
-height: 25px;
-width: 30px;
+height: 250px;
+width: 300px;
 }
 
